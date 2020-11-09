@@ -1,4 +1,4 @@
-# projet WildCodeSchool-lyon-php projet1--charryofles
+# projet WildCodeSchool-lyon-php projet1 Les papas gamers
 
 Ceci est un projet réalisé dans le cadre de la WildCodeSchool, 
 une formation pour acquérir les bases du développement web sur 6 mois.
@@ -18,4 +18,4 @@ Voici les membres de notre équipe:
  * [Yoann Vincent](https://github.com/Yoann-VINCENT)
  * Et moi même.
 
-Ce repo ne sera plus mis à jour.
+Il existe une version 2 du projet qui est améliorée au fur et à mesure de la formation.
